@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L0rd-Inquisit0r
-- 🎮 I’m interested in game development and robotics! 🤖
-- 🖥️ Aside from english, my languages include C, Java, HTML/CSS/JS, PHP
+- 🎮 I’m interested in game development, cybersecurity, and robotics! 🤖
+- 🖥️ Aside from english, my languages include C, Java, HTML/CSS/JS
 - 💞️ I’m looking to collaborate on...anything that adds contributions to my profile.
 - 📫 How to reach me? I dunno, unless you wanna see my 💩-posts...
 
