@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @L0rd-Inquisit0r
+- 👋 Hi, I’m @Siegescript
 - 🎮 I’m interested in game development, cybersecurity, and robotics! 🤖
 - 🖥️ Aside from english, my languages include C, Java, HTML/CSS/JS
 - 💞️ I’m looking to collaborate on...anything that adds contributions to my profile.
